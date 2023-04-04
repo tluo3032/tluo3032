@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tluo3032
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Computer Science
 
 <!---
 tluo3032/tluo3032 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
